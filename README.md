@@ -1,5 +1,7 @@
 # ngx-joypixels
 
+![Build](https://github.com/johnbwoodruff/ngx-joypixels/workflows/Build/badge.svg) [![npm](https://img.shields.io/npm/dm/ngx-joypixels.svg)](https://www.npmjs.com/package/ngx-joypixels) [![npm](https://img.shields.io/npm/dt/ngx-joypixels.svg)](https://www.npmjs.com/package/ngx-joypixels) [![npm](https://img.shields.io/npm/v/ngx-joypixels.svg)](https://www.npmjs.com/package/ngx-joypixels)
+
 [JoyPixels](https://www.joypixels.com/) for Angular.
 
 ## Usage
