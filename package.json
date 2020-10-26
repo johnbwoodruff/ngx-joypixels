@@ -1,6 +1,26 @@
 {
   "name": "ngx-joypixels",
-  "version": "1.0.0",
+  "description": "An Angular library for easily using JoyPixels' Emoji library in your app",
+  "version": "1.0.1",
+  "author": {
+    "name": "John Woodruff",
+    "email": "johnwoodruff91@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnbwoodruff/ngx-joypixels.git"
+  },
+  "homepage": "https://github.com/johnbwoodruff/ngx-joypixels",
+  "bugs": {
+    "url": "https://github.com/johnbwoodruff/ngx-joypixels/issues"
+  },
+  "keywords": [
+    "angular",
+    "typescript",
+    "joypixels",
+    "emoji"
+  ],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
