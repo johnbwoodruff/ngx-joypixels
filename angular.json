@@ -32,7 +32,7 @@
             "ci": {
               "watch": false,
               "progress": false,
-              "browsers": "ChromeHeadlessCI"
+              "browsers": "ChromeHeadless"
             }
           }
         },
