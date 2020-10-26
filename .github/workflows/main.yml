@@ -17,10 +17,10 @@ jobs:
       with:
         node-version: 12.x
     - name: Install dependencies
-      run: npm install
+      run: yarn install
     - name: Lint
-      run: npm run lint
+      run: yarn lint
     - name: Build
-      run: npm run build -- --prod
+      run: yarn build --prod
     - name: Test
-      run: npm test -- --configuration=ci
+      run: yarn test --configuration=ci
