@@ -13,5 +13,4 @@ export class EmojiPipe implements PipeTransform {
     }
     return this.emojiService.convertText(text);
   }
-
 }

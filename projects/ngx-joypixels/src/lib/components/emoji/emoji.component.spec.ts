@@ -8,9 +8,8 @@ describe('EmojiComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ EmojiComponent ]
-    })
-    .compileComponents();
+      declarations: [EmojiComponent]
+    }).compileComponents();
   });
 
   beforeEach(() => {

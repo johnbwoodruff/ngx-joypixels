@@ -5,7 +5,6 @@ import * as EmojiToolkit from 'emoji-toolkit';
   providedIn: 'root'
 })
 export class EmojiService {
-
   constructor() {}
 
   /**

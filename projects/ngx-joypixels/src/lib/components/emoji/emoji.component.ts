@@ -10,7 +10,7 @@ export class EmojiComponent implements OnChanges {
   @Input() shortname: string;
   image: string;
 
-  constructor(private emojiService: EmojiService) { }
+  constructor(private emojiService: EmojiService) {}
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes.shortname.currentValue) {
