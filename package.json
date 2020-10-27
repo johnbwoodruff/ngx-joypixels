@@ -1,7 +1,7 @@
 {
   "name": "ngx-joypixels",
   "description": "An Angular library for easily using JoyPixels' Emoji library in your app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "John Woodruff",
     "email": "johnwoodruff91@gmail.com"

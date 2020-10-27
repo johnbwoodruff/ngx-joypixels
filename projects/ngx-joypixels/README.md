@@ -33,7 +33,7 @@ import { AppComponent } from './app.component';
 export class AppModule {}
 ```
 
-You're now ready to go! Check out the documentation below for using the various pieces of this library.
+You're now ready to go! Check out the documentation below for using the various pieces of this library. You can also look at this [StackBlitz](https://stackblitz.com/edit/ngx-joypixels-example?file=src/app/app.component.ts) for actual example usage of some of the features.
 
 ## Component
 
